@@ -19,14 +19,14 @@ int main()
 	{
 		cin>>b;
 		if(a[b]==true)
-        {
-           cout<<"1 ";
-        }
+                {
+                  cout<<"1 ";
+                }
 
 		else
-        {
-          cout<<"0 ";
-        }
+                {
+                  cout<<"0 ";
+                }
 
 	}
 
